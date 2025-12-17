@@ -86,4 +86,9 @@ There are no conflicting recommendations about credit card use in the examined d
 The Investment Analysis documents (such as "TOP-Analise-de-Investimentos.pdf") and the material on the Securities Market ("TOP-Mercado-de-Valores-Mobiliarios-Brasileiro.pdf") focus on assets, capital markets, and corporate governance and, therefore, do not contain direct advice on personal finances or the use of credit cards."
 
 
-
+### Comparative Analysis Table:
+|Topic|Relevant Information|Source Document(s)|
+|------|-------------------|------------------|
+|Emergency Fund Size | The Emergency Fund is a financial reserve for unforeseen events and should range between three to six months of an individual's or family's current expenses. It is recommended that this reserve be at least three times the monthly budget. The solidity of this reserve can be measured by the "Monthly Expense Coverage Ratio," calculated by dividing short-term assets by monthly expenses. | All documents|
+|First Investment|The primary savings goal (and therefore the first investment) should be the Financial Reserve for emergencies. For this purpose, the investment should prioritize liquidity and safety (low risk) over yield. Post-fixed, low-volatility investments with daily liquidity are the most suitable. Recommended examples include Tesouro Selic (Brazilian Treasury bonds linked to the SELIC rate), CDB DI (Bank Deposit Certificates linked to the interbank deposit rate), and Referenced DI Funds.| All documents |
+|Credit Utilization| Revolving credit, including overdraft and credit cards, is the most expensive credit and should be avoided, as it compromises future income. Credit should only be used for acquiring assets that build wealth (such as real estate financing) and not for financing consumption expenses. The Debt-to-Income Ratio (Monthly debt amount / Net monthly income) should be kept below 30% to ensure payment capacity and financial health. | All documents |
