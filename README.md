@@ -121,7 +121,7 @@ The Investment Analysis documents (such as "TOP-Analise-de-Investimentos.pdf") a
 
 ## Setup Instructions:
 1. Clone this repository
-2. Acess NotebookLM:
+2. Access NotebookLM:
    Visit NotebookLM Google
    Create a new notebook titled "Personal Finance Study Guide"
 3. Upload Source Documents:
